@@ -2,7 +2,7 @@
    
 🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝
 ❄ You can find cheapest products from this app.
-- git clone https://github.com/wooserr/python-cheapest-product-finder-tr-en
+- git clone https://github.com/burakdevelopment/python-cheapest-product-finder-tr-en
 - cd Desktop
 - cd python-cheapest-product-finder-tr-en-main
 - pip install -r requirements.txt
@@ -13,7 +13,7 @@
 
 🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝🢝
 ❄ Bu uygulamadan en ucuz ürünleri bulabilirsiniz.
-- git clone https://github.com/wooserr/python-cheapest-product-finder-tr-en
+- git clone https://github.com/burakdevelopment/python-cheapest-product-finder-tr-en
 - cd Desktop
 - cd python-cheapest-product-finder-tr-en-main
 - pip install -r requirements.txt
